@@ -1,1 +1,14 @@
-graph notes 
+Graph notes :
+Graph is made of two components :
+1-->vertex /node,
+2-->edge
+
+Graph is of two types :
+1--> undirected graph : here the edges between two graph is not directed we can say the edge betwwn u and v also v and u also given u and v are nodes of graph.
+2--> directed graph : here the edges between two graph is directed we can say the edge betwwn u and v but not edge between v and u because a specific direction is given between
+edges of graph.
+
+Degree: the no of edges are connected to a node in undirected graph . 
+in undirected graph the total no of degree in all the nodes is equal to the == 2 * no of edges in the graph.
+
+wefwef
