@@ -17,3 +17,8 @@ D=2*TOTAL NO OF EDGES.
 In case of directed graph there is incoming edge and outgoing edge for a particular node so there is 2 types of degree
 1)INDEGREE :- it means the total no of edges coming toward a node.
 2)OUTDEGREE :- it means the total no of edges going away from node.
+
+Path : In undirected graph path means moving from one node to another but you cant go back to same node.
+    ex : 1,2,3 or 1,2 but not 1,2,3,2.
+    
+       Since in directed graph there is specific direction is already present so we can not go anywhere but to follow that path.
