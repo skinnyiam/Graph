@@ -11,4 +11,9 @@ edges of graph.
 Degree: the no of edges are connected to a node in undirected graph . 
 in undirected graph the total no of degree in all the nodes is equal to the == 2 * no of edges in the graph.
 
-wefwef
+The total degree of all the nodes in an undirected graph is twice the no of edges in the graph.
+D=2*TOTAL NO OF EDGES.
+
+In case of directed graph there is incoming edge and outgoing edge for a particular node so there is 2 types of degree
+1)INDEGREE :- it means the total no of edges coming toward a node.
+2)OUTDEGREE :- it means the total no of edges going away from node.
